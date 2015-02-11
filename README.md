@@ -24,4 +24,4 @@ Raspres will start running and will show his Mac address which you can add to a 
 * Does not support videos within Impress presentations, any ideas are welcome, probably some driver problem.
 
 ### Who do I talk to? ###
-* Feel free te contact me [chris@raspres.com](mailto:chris@raspres.com).
+* Feel free te contact me [chris@smartlaz.com](mailto:chris@smartlaz.com).
