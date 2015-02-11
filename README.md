@@ -5,7 +5,7 @@ This is a python script for the automatic display of Videos managed on [Raspres.
 Because I was so fed up with the fact that is was nearly impossible to put Videos on a Raspberry and start looping them seamlessly without any hassles.
 
 ## Features ##
-* Mange your videos through an online dashboard on [Raspres.com](http://Raspres.com/ "Raspres"). No more running around with USB-sticks, free to manage up to 3 Raspberries.
+* Mange your videos through an online dashboard on [Raspres.com](http://Raspres.com/ "Raspres"). No more running around with USB-sticks, **free to manage up to 3 Raspberries.**
 * Will automatically start looping any video you throw at it.
 * Will launch at boot.
 * Also supports Presentations (Impress, make sure auto-loop/play is on)
