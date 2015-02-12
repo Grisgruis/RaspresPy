@@ -21,7 +21,7 @@ Because I was so fed up with the fact that is was nearly impossible to put Video
 * Have Patience...
 * That's it
 
-Raspres will start running and will show its Mac address which you can add to a device on the [Dashboard](http://Raspres.com/ "Dashboard"). You can assign this device to a group on your account at [Raspres.com](http://Raspres.com/ "Raspres"). When you've uploaded your first video and linked to device to a group, it will automatically start playing the video and start looping.
+Raspres will start running and will show its Mac address which you can add the a device on the [Dashboard](http://Raspres.com/ "Dashboard"). You can assign this device to a group on your account at [Raspres.com](http://Raspres.com/ "Raspres"). When you've uploaded your first video and linked to device to a group, it will automatically start playing the video and start looping.
 
 ## Problems? ##
 * Make sure your Raspberry has an internet connection.
@@ -29,4 +29,4 @@ Raspres will start running and will show its Mac address which you can add to a 
 * Does not support videos within Impress presentations, any ideas are welcome, probably some driver problem.
 
 ### Who do I talk to? ###
-* Feel free te contact me [chris@smartlaz.com](mailto:chris@smartlaz.com).
+* Feel free to contact me [chris@smartlaz.com](mailto:chris@smartlaz.com).
