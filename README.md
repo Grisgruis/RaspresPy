@@ -1,5 +1,7 @@
+Underconstruction...
+
 # RaspresPy #
-This is a python script for the automatic display of Videos managed on [Raspres.com](http://Raspres.com/ "Raspres")
+This is an easy python script for automatic and seamlessly looping of videos managed on [Raspres.com](http://Raspres.com/ "Raspres").
 
 ## Why? ##
 Because I was so fed up with the fact that is was nearly impossible to put Videos on a Raspberry and start looping them seamlessly without any hassles.
@@ -8,16 +10,17 @@ Because I was so fed up with the fact that is was nearly impossible to put Video
 * Mange your videos through an online dashboard on [Raspres.com](http://Raspres.com/ "Raspres"). No more running around with USB-sticks, **free to manage up to 3 Raspberries.**
 * Will automatically start looping any video you throw at it.
 * Will launch at boot.
-* Also supports Presentations (Impress, make sure auto-loop/play is on)
+* Also supports Presentations (Use Libreoffice - Impress, make sure auto-loop/play is on)
 
 ## Setup ##
 * Create an account at [Raspres.com](http://Raspres.com/ "Raspres")
-* Open Therminal and run `git clone https://github.com/Grisgruis/RaspresPy.git RaspresPy`
+* Open Therminal and run `sudo git clone https://github.com/Grisgruis/RaspresPy.git RaspresPy`
 * run `cd RaspresPy`
 * run `sudo python install.py`
-* Patience...
+* Have Patience...
+* That's it
 
-Raspres will start running and will show his Mac address which you can add to a device on the [Dashboard](http://Raspres.com/ "Dashboard"). You can assign this device to a group on your account at [Raspres.com](http://Raspres.com/ "Raspres"). When you've uploaded your first video it will automatically start playing the video and keep looping.
+Raspres will start running and will show its Mac address which you can add to a device on the [Dashboard](http://Raspres.com/ "Dashboard"). You can assign this device to a group on your account at [Raspres.com](http://Raspres.com/ "Raspres"). When you've uploaded your first video and linked to device to a group, it will automatically start playing the video and start looping.
 
 ## Problems? ##
 * Make sure your Raspberry has an internet connection.
