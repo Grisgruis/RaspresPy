@@ -47,7 +47,7 @@ else:
                 filename        = str(data['filename'])
                 urllib.urlretrieve(file, filename=filename)
                 #os.system('omxplayer -o hdmi -b --loop ' + filename)
-                os.system('/home/pi/Videos/hello_video.bin /home/pi/RaspresPy/'+filename)
+                os.system('/home/pi/RaspresPy/hello_video.bin /home/pi/RaspresPy/'+filename)
         elif data['type'] == 'presentation':
                 print 'Downloading Presentation..'
                 file            = str(data['file'])
