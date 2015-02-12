@@ -14,6 +14,7 @@ Because I was so fed up with the fact that is was nearly impossible to put Video
 
 ## Setup ##
 * Create an account at [Raspres.com](http://Raspres.com/ "Raspres")
+* Make sure your Raspberry is setup and is connected to the Internet.
 * Open Therminal and run `sudo git clone https://github.com/Grisgruis/RaspresPy.git RaspresPy`
 * run `cd RaspresPy`
 * run `sudo python install.py`
