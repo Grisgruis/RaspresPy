@@ -12,9 +12,10 @@ Because I was so fed up with the fact that is was nearly impossible to put Video
 
 ## Setup ##
 * Create an account at [Raspres.com](http://Raspres.com/ "Raspres")
-* run `wget https://grisgruis@bitbucket.org/grisgruis/rasprespy.git`
-* run `cd raspresPy`
+* Open Therminal and run `git clone https://github.com/Grisgruis/RaspresPy.git RaspresPy`
+* run `cd RaspresPy`
 * run `sudo python install.py`
+* Patience...
 
 Raspres will start running and will show his Mac address which you can add to a device on the [Dashboard](http://Raspres.com/ "Dashboard"). You can assign this device to a group on your account at [Raspres.com](http://Raspres.com/ "Raspres"). When you've uploaded your first video it will automatically start playing the video and keep looping.
 
