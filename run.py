@@ -25,7 +25,7 @@ def getVars():
         	network = 'wlan0'
 
         print 'Getting mac adress from network adapter ' + network
-        response     = urllib.urlopen('http://raspres.local/info/' + escape(getHwAddr(network)))
+        response     = urllib.urlopen('http://raspres.com/info/' + escape(getHwAddr(network)))
         data         = json.loads(response.read())
         return data
  
